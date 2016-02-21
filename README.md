@@ -1,3 +1,14 @@
+## Coursera course Exploratory Data Analysis
+
+###Assignment week1. 
+
+###The R files and png are in the repository in the main folder. 
+###Please discard the folder "figure" and the readme below that contain material of the original repository by Dr. Peng 
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
 ## Introduction
 
 This assignment uses data from
